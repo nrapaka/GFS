@@ -4,6 +4,8 @@ MATLAB implementation of the Generalized Fourier Series (GFS) method for aperiod
 
 The main file is [`IBVP.m`](IBVP.m).
 
+The code is shared in its current research form and requires cleanup. Code cleanup and improved documentation are planned for a future update.
+
 ## Citation
 
 If you use this implementation in your research, please cite:
